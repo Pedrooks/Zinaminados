@@ -20,7 +20,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 	prevText = "Anterior",
     nextText = "Próxima",
     numchars = 0;
-	imgBlank = "https://web.archive.org/web/20200402121342/https://lh4.googleusercontent.com/-93WW4QW0Qg0/VL_4-ue6qPI/AAAAAAAACc4/lgHjRFPL0hY/s1/ani.png";
+	imgBlank = "https://lh4.googleusercontent.com/-93WW4QW0Qg0/VL_4-ue6qPI/AAAAAAAACc4/lgHjRFPL0hY/s1/ani.png";
     var firstpage = 0; // Detectar a primeira  pagina que é executado
     var pagernum = 0; // Conter o número da página
     var postsnum = 0; // Aonde iniciar a primeira página
